@@ -15,7 +15,7 @@ class KöttätandeVäxtTest {
 
     @Test
     void printVäxt() {
-        assert (kv.getNamn() == "adam");
+        assert (kv.getNamn().equals("adam"));
         assert (kv.näringsvätska.klassnamn.equals("köttätande växt"));
         assert (kv.näringsvätska.dryck.equals("proteindryck"));
     }
