@@ -4,7 +4,7 @@ import javax.swing.*;
 
 public class Main {
     Main() {
-        Växthotell Greenest = new Växthotell("Greenest");
+        Växthotell Greenest = new Växthotell();
 
         Kaktus Igge = new Kaktus("Igge", 20);
         Palm Laura = new Palm("Laura", 500);
@@ -16,15 +16,15 @@ public class Main {
         Greenest.läggTillVäxt(Meatloaf);
         Greenest.läggTillVäxt(Putte);
 
-        String växtSkaFåVätska = JOptionPane.showInputDialog("Vilken växt ska få vätska?");
+        String växtSkaFåVätska;
+        do {
+            växtSkaFåVätska = JOptionPane.showInputDialog("Vilken växt ska få vätska?");
+        } while (växtSkaFåVätska == null || växtSkaFåVätska.isEmpty());
 
         Greenest.printVäxt(växtSkaFåVätska);
-
-
     }
 
-
     public static void main(String[] args) {
-        Main main = new Main();
+        new Main();
     }
 }

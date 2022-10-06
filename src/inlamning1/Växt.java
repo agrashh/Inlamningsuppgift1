@@ -1,9 +1,9 @@
 package inlamning1;
 
-abstract class Växt implements VäxtInterface{
+abstract class Växt implements VäxtInterface {
     protected String namn;
     protected double höjdICentimeter;
-    protected double näringsvärde;
+    protected double näringsBehov;
 
     protected Näringsvätska näringsvätska;
 
@@ -13,7 +13,7 @@ abstract class Växt implements VäxtInterface{
     }
 
     public String getNamn() {
-        return this.namn;
+        return namn;
     }
 
 }

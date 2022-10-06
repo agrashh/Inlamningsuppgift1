@@ -1,7 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8bcc7cc9-d63b-4ee0-94e3-20d39b14e5e1" name="Changes" comment="Init" />
+    <list default="true" id="8bcc7cc9-d63b-4ee0-94e3-20d39b14e5e1" name="Changes" comment="Cleanup, added some tests">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/inlamning1/Kaktus.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/inlamning1/Kaktus.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/inlamning1/KöttätandeVäxt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/inlamning1/KöttätandeVäxt.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/inlamning1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/inlamning1/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/inlamning1/Näringsvätska.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/inlamning1/Näringsvätska.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/inlamning1/Palm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/inlamning1/Palm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/inlamning1/Växt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/inlamning1/Växt.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/inlamning1/Växthotell.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/inlamning1/Växthotell.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/inlamning1/KaktusTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/inlamning1/KaktusTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/inlamning1/KöttätandeVäxtTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/inlamning1/KöttätandeVäxtTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/inlamning1/PalmTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/inlamning1/PalmTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/inlamning1/VäxthotellTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/inlamning1/VäxthotellTest.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,6 +38,7 @@
   </component>
   <component name="ProjectId" id="2FaBtunAC4Ewaeh16Q1UEM1mtLj" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="false" id="Update" />
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
@@ -42,7 +56,8 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
-    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.includeInheritedMembers&quot;: &quot;true&quot;
   }
 }</component>
   <component name="RecentsManager">
@@ -63,6 +78,10 @@
       <updated>1664720533300</updated>
       <workItem from="1664720535016" duration="13591000" />
       <workItem from="1664954006324" duration="249000" />
+      <workItem from="1664968297701" duration="3883000" />
+      <workItem from="1664972241921" duration="2728000" />
+      <workItem from="1665064461408" duration="2253000" />
+      <workItem from="1665070940429" duration="1398000" />
     </task>
     <task id="LOCAL−00001" summary="Init">
       <created>1664954063558</created>
@@ -70,7 +89,13 @@
       <option name="presentableId" value="LOCAL−00001" />
       <updated>1664954063558</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL−00002" summary="Init">
+      <created>1664968324397</created>
+      <option name="number" value="LOCAL−00002" />
+      <option name="presentableId" value="LOCAL−00002" />
+      <updated>1664968324397</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -89,6 +114,12 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Init" />
-    <option name="LAST_COMMIT_MESSAGE" value="Init" />
+    <MESSAGE value="Cleanup, added some tests" />
+    <option name="LAST_COMMIT_MESSAGE" value="Cleanup, added some tests" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Inlamningsuppgift1$Main.ic" NAME="Main Coverage Results" MODIFIED="1664974784384" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>inlamning1.*</FILTER>
+    </SUITE>
   </component>
 </project>
