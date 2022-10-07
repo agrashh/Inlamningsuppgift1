@@ -3,17 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="8bcc7cc9-d63b-4ee0-94e3-20d39b14e5e1" name="Changes" comment="Cleanup, added some tests">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/inlamning1/Kaktus.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/inlamning1/Kaktus.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/inlamning1/KöttätandeVäxt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/inlamning1/KöttätandeVäxt.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/inlamning1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/inlamning1/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/inlamning1/Näringsvätska.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/inlamning1/Näringsvätska.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/inlamning1/Palm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/inlamning1/Palm.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/inlamning1/Växt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/inlamning1/Växt.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/inlamning1/Växthotell.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/inlamning1/Växthotell.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/inlamning1/KaktusTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/inlamning1/KaktusTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/inlamning1/KöttätandeVäxtTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/inlamning1/KöttätandeVäxtTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/inlamning1/PalmTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/inlamning1/PalmTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/inlamning1/VäxthotellTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/inlamning1/VäxthotellTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,7 +71,8 @@
       <workItem from="1664968297701" duration="3883000" />
       <workItem from="1664972241921" duration="2728000" />
       <workItem from="1665064461408" duration="2253000" />
-      <workItem from="1665070940429" duration="1398000" />
+      <workItem from="1665070940429" duration="1665000" />
+      <workItem from="1665121406318" duration="1803000" />
     </task>
     <task id="LOCAL−00001" summary="Init">
       <created>1664954063558</created>
@@ -95,7 +86,19 @@
       <option name="presentableId" value="LOCAL−00002" />
       <updated>1664968324397</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL−00003" summary="Cleanup, added some tests">
+      <created>1665072452349</created>
+      <option name="number" value="LOCAL−00003" />
+      <option name="presentableId" value="LOCAL−00003" />
+      <updated>1665072452349</updated>
+    </task>
+    <task id="LOCAL−00004" summary="Cleanup, added some tests">
+      <created>1665072609976</created>
+      <option name="number" value="LOCAL−00004" />
+      <option name="presentableId" value="LOCAL−00004" />
+      <updated>1665072609976</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

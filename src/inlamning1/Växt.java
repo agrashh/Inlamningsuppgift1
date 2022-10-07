@@ -1,8 +1,8 @@
 package inlamning1;
 
 abstract class Växt implements VäxtInterface {
-    protected String namn;
-    protected double höjdICentimeter;
+    protected final String namn;
+    protected final double höjdICentimeter;
     protected double näringsBehov;
 
     protected Näringsvätska näringsvätska;
